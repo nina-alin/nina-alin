@@ -2,7 +2,7 @@
 - 🎆 I'm currently working as a junior fullstack developer in France
 - 👀 I’m interested in Web Development (Backend and Frontend)
 - 🌱 I’m currently learning React/NextJs/NestJs
-- 💻 Working on a website providing infos about cybersecurity 
+- 💻 Working on a website for an esport team 
 - 🔗 My [GitLab](https://gitlab.com/nina-alin)
 - 🔗 My [company](https://apizr.fr/fr/creer-plateforme-digitale-api/)
 <!---

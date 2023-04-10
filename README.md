@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nina-alin
 - 🎆 I'm currently working as a junior fullstack developer in France
-- 👀 I’m interested in Front-end development (JS - WA - UI/UX Design and more)
+- 👀 I’m interested in Front-end development (JS - Flutter - UI/UX Design and more)
 - 💻 Working on a website for an esport team 
 - 🔗 My [GitLab](https://gitlab.com/nina-alin)
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nina-alin
 - 🎆 I'm currently working as a junior frontend developer in France
-- 💻 Working on Spotify Enhanced ✨ - your Spotify copilot for music lovers! 
+- 💻 Working on Melody Insights ✨ - your Spotify copilot for music lovers! 
 - 🔗 My [GitLab](https://gitlab.com/nina-alin)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nestjs,nodejs,react,materialui,tailwind,styledcomponents)](https://skillicons.dev)

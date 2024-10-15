@@ -3,4 +3,4 @@
 - 🖱️ I am passionate about web frontend development as a whole
 - 🔗 My [GitLab](https://gitlab.com/nina-alin)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nestjs,nodejs,react,materialui,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nestjs,nodejs,react,materialui,tailwind,styledcomponents,php,symfony,docker,gitlab)](https://skillicons.dev)
